@@ -1,0 +1,27 @@
+.nav{
+    background-color: rgba(200, 135, 89, 0.589);
+}
+.boton-cerrar-sesion {
+    background-color: rgba(222, 121, 187, 0.684);
+    border-color: rgba(200, 100, 100, 0.746);
+    border-radius: 25px;
+    margin: 5px;
+    width: 100px;
+}
+
+.boton-cerrar-sesion:hover {
+    background-color: rgb(200, 100, 100);
+    border-color: rgb(220, 20, 150);
+}
+
+.botones {
+    display: flex;
+    flex-direction:row;
+    height: 60px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}

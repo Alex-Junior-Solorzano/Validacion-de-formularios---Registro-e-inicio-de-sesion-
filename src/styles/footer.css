@@ -1,0 +1,17 @@
+.footer {
+    background-color: blanchedalmond;
+    position: absolute;
+    display: block;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.copy {
+    background-color: rgb(176, 153, 118);
+}
